@@ -1,2 +1,0 @@
-costprice 33.20
-margin    30
