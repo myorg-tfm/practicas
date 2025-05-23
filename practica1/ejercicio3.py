@@ -1,4 +1,3 @@
+#Crea una función que calcule el factorial de un número n.
 def factorial(n):
-    r = 1
-    for i in range(2, n+1): r *= i
-    return r
+    pass
